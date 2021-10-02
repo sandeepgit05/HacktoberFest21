@@ -2,7 +2,7 @@
 
 
 # HacktoberFest21
-
+Hacktoberfest is the fest to promote open source contribution.
 Hello Hackers! 
 HacktoberFest has begun again for year 2021, and everyone's excited to get started!
 
